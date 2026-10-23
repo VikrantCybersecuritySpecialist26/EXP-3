@@ -45,7 +45,9 @@ Direct connection: CIRCUIT DIAGRAM:
 
 Tabulation:1
 
-<img width="1057" height="390" alt="Screenshot 2026-10-23 202749" src="https://github.com/user-attachments/assets/6d6f1d79-b08c-43ac-a179-f52a9dad328b" />
+
+<img width="1150" height="960" alt="WhatsApp Image 2026-10-23 at 8 34 32 PM" src="https://github.com/user-attachments/assets/f2bb6621-3049-4580-b3ae-f13b2811d6cd" />
+
 
 	
 Cross connection: CIRCUIT DIAGRAM:
